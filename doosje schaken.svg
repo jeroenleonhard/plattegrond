@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg baseProfile='full' xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 464.88 764.22" id="templatemaker-boxlid" width="16.4cm" height="26.96cm">
+<title>Box with lid</title>
+<defs>
+	<style type='text/css'>
+		text{  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Segoe UI Symbol"; font-weight: 400; }
+</style></defs>
+<g id="lid" transform="translate(0,0)">
+	<g class="pagetext" font-size="10">
+		<text x="379.98425196850394" y="0" text-anchor="end" >lid</text>
+		<text x="34.01574803149606" y="17.00787401574803"><tspan font-weight="600">Box with lid </tspan>6×4×4 LID 3 (cm)</text>
+		<text x="34.01574803149606" y="346" >templatemaker.nl (C) Please, refer to the very permissive license!</text>
+	</g>
+	<g id="lid-cut" class="cut" fill='none' stroke='#d41a5a' stroke-width='2' >
+		<path id="lid-cut-outside" d="M 34.02 236.94 L 62.36 265.29 L 90.71 265.29 L 119.06 236.94 L 119.06 321.98 L 295.94 321.98 L 295.94 236.94 L 324.28 265.29 L 352.63 265.29 L 380.98 236.94 L 380.98 119.02 L 352.63 90.68 L 324.28 90.68 L 295.94 119.02 L 295.94 33.98 L 119.06 33.98 L 119.06 119.02 L 90.71 90.68 L 62.36 90.68 L 34.02 119.02 L 34.02 236.94"/>
+	</g>
+	<g id="lid-fold" class="fold" fill='none' stroke='#00adee' stroke-width='0.75' >
+		<path id="lid-fold-outside-flap-1" d="M 34.02 236.94 L 119.06 236.94"/>
+		<path id="lid-fold-outside-flap-2" d="M 295.94 236.94 L 380.98 236.94"/>
+		<path id="lid-fold-outside-flap-3" d="M 380.98 119.02 L 295.94 119.02"/>
+		<path id="lid-fold-outside-flap-4" d="M 119.06 119.02 L 34.02 119.02"/>
+		<path id="lid-fold-inside" d="M 119.06 236.94 L 295.94 236.94 L 295.94 119.02 L 119.06 119.02 L 119.06 236.94"/>
+	</g>
+</g>
+<g id="base" transform="translate(0,356)">
+	<g class="pagetext" font-size="10">
+		<text x="429.98425196850394" y="0" text-anchor="end" >base</text>
+		<text x="34.01574803149606" y="17.00787401574803"><tspan font-weight="600">Box with lid </tspan>6×4×4 LID 3 (cm)</text>
+		<text x="34.01574803149606" y="398" >templatemaker.nl (C) Please, refer to the very permissive license!</text>
+	</g>
+	<g id="base-cut" class="cut" fill='none' stroke='#d41a5a' stroke-width='2' >
+		<path id="base-cut-outside" d="M 34.02 260.6 L 62.36 288.94 L 119.06 288.94 L 147.4 260.6 L 147.4 373.98 L 317.48 373.98 L 317.48 260.6 L 345.83 288.94 L 402.52 288.94 L 430.87 260.6 L 430.87 147.21 L 402.52 118.87 L 345.83 118.87 L 317.48 147.21 L 317.48 33.83 L 147.4 33.83 L 147.4 147.21 L 119.06 118.87 L 62.36 118.87 L 34.02 147.21 L 34.02 260.6"/>
+	</g>
+	<g id="base-fold" class="fold" fill='none' stroke='#00adee' stroke-width='0.75' >
+		<path id="base-fold-outside-flap-1" d="M 34.02 260.6 L 147.4 260.6"/>
+		<path id="base-fold-outside-flap-2" d="M 317.48 260.6 L 430.87 260.6"/>
+		<path id="base-fold-outside-flap-3" d="M 430.87 147.21 L 317.48 147.21"/>
+		<path id="base-fold-outside-flap-4" d="M 147.4 147.21 L 34.02 147.21"/>
+		<path id="base-fold-inside" d="M 147.4 260.6 L 317.48 260.6 L 317.48 147.21 L 147.4 147.21 L 147.4 260.6"/>
+	</g>
+</g>
+</svg>
